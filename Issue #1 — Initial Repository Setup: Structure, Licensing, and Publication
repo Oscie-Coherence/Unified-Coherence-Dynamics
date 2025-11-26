@@ -1,0 +1,17 @@
+Issue #1 — Initial Repository Setup: Structure, Licensing, and Publication
+This issue tracks the initial setup and publication of the Oscie Coherence Architecture research repository, including structure, licensing, and core documentation.
+Tasks Completed
+Added root repository structure
+Added README.md with project overview, paper summary, and citation info
+Added LICENSE (Apache 2.0)
+Added .gitignore (Python template + research file ignores)
+Uploaded preprint PDF (paper/Oscie_CI_Pub.pdf)
+Added placeholder directories for examples/ and figures/
+Added metadata files (abstract.md, citation.bib)
+Next Steps
+Add coherence evaluation protocol to /examples/
+Add preliminary diagrams to /figures/ (UCD, CUE, VE+ stack)
+Set up versioned “Releases” for v1.0 of the paper
+(Optional) Register Zenodo DOI for permanent citation
+Purpose
+This establishes the repo as the canonical public reference for the Oscie Coherence Architecture, UCD framework, ACI stack, CUE stability engine, VE+ energy layer, and baseline Coherence Capacity benchmark.
