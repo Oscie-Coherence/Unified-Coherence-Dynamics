@@ -4,7 +4,7 @@
 
 ---
 
-## 🔬 Overview
+Overview
 
 The Oscie Coherence Architecture unifies:
 - **UCD** — Unified Coherence Dynamics  
@@ -17,12 +17,20 @@ It aims to enable research and development of stability-first intelligence — a
 
 ---
 
-## 📁 Repository Structure
+Repository Structure
 
+/ (root)
+README.md
+LICENSE
+.gitignore
+Oscie_CI_Pub.pdf # core paper
+/paper/ # optional future use
+/examples/ # placeholder for simulations / eval scripts
+/figures/ # placeholder for diagrams (UCD, stack, coherence-window)
 
 ---
 
-## 📄 Paper — Oscie_CI_Pub.pdf
+Paper — Oscie_CI_Pub.pdf
 
 The published preprint within this repository defines:
 
@@ -33,14 +41,21 @@ The published preprint within this repository defines:
 
 ---
 
-## 📜 License
+ License
 
 This project is licensed under the **Apache License 2.0**.  
 See the `LICENSE` file for full terms.  
 
 ---
 
-## 📚 Citation
+ Citation
 
 When referencing this work, please cite:
+@article{lentz2025coherence,
+title = {The Coherence Architecture: A Physics-Grounded Framework for Stable Intelligent Systems},
+author = {Lentz, Carter},
+year = {2025},
+journal = {Oscie: Coherent Intelligence Preprint},
+url = {https://github.com/Oscie-Coherence/Unified-Coherence-Dynamics}
+}
 
