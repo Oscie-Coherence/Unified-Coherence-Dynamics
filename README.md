@@ -17,19 +17,6 @@ It aims to enable research and development of stability-first intelligence — a
 
 ---
 
-Repository Structure
-
-/ (root)
-README.md
-LICENSE
-.gitignore
-Oscie_CI_Pub.pdf # core paper
-/paper/ # optional future use
-/examples/ # placeholder for simulations / eval scripts
-/figures/ # placeholder for diagrams (UCD, stack, coherence-window)
-
----
-
 Paper — Oscie_CI_Pub.pdf
 
 The published preprint within this repository defines:
