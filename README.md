@@ -1,4 +1,4 @@
-# Oscie ACI — Operational Coherence Intelligence
+# Oscie OOI — Operational Coherence Intelligence
 
 **The first intelligence architecture governed by coherence physics, not statistical scaling.**
 
