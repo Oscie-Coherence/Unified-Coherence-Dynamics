@@ -1,10 +1,10 @@
-# Oscie OOI — Operational Coherence Intelligence
+# Oscie OOI — Operonical Oscillatoric Intelligence
 
 **The first intelligence architecture governed by coherence physics, not statistical scaling.**
 
 > Phase-locked. Drift-proof. Built for long-arc infrastructure.
 
-**Copyright © 2025 Carter Lentz (@CohoLabs)**  
+**Copyright © 2025 Carter Lentz (@CohoLabs) // Oscie OOI**  
 All rights reserved except as explicitly granted below.
 
 ## Licensing (designed for both open collaboration and serious partnerships)
